@@ -6,7 +6,7 @@ The project is about:
 * Design of a peer-to-peer network architecture;
 * Implementation of the network in C using the socket interface.
 
-The design of the network is widely described in the documentation.
+The design of the network is widely described in the documentation.  
 A generic peer of the network is implemented in the file peer.c, while the Discovery Server is implemented in the file ds.c.  
 The whole project, including the specifications and the documentation, is written in Italian.
 
