@@ -12,4 +12,4 @@ The whole project, including the specifications and the documentation, is writte
 
 #### How to Run the Projct
 The project has to be run on a Debian 8 machine.  
-To run the project is enough to move into the project directory and run the command 'sh exec.sh' from the terminal. This command will boot the Discovery Server on port 4242 and five peers on ports 5001-5005.
+To run the project is enough to move into the project directory and run the command `sh exec.sh` from the terminal. This command will boot the Discovery Server on port 4242 and five peers on ports 5001-5005.
