@@ -1,7 +1,7 @@
 # CovidNetworkApplication
 ## Peer-to-Peer Network Application implementing Covid-19 Data Sharing
 ### About
-This is a university project (Computer Networks Course, 9 CFU).  
+This is a university project (Computer Networks Course).  
 Tasks of the project:
 * Design of a peer-to-peer network architecture;
 * Implementation of the network in C using the socket interface.
